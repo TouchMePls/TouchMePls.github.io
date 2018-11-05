@@ -2,8 +2,7 @@
 layout: post
 title: What makes horror scary
 ---
-
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Fear I feel is an intreasting emotion. It shows peoples true colors when faced with it. It makes people do things they would never otherwise do when their scared. Phobias can often tell you a lot about people of what people will and not do. For
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
